@@ -14,7 +14,7 @@ public class AdvanceMathUtilTest{
                 {0, 1},
                 {1, 1},
                 {2, 2},
-                {6, 12}
+                {6, 720}
         };
     }
     @Parameterized.Parameter(value = 0)
